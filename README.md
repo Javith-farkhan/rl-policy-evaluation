@@ -61,7 +61,7 @@ The transition probabilities for each action are as follows:
 
 ## Name: Javith farkhan
 ## Reg.No: 212221240017
-```
+```py
 pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
 
 import warnings ; warnings.filterwarnings('ignore')
